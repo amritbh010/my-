@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Amrit</title>
+      <link>https://amritbh010.xyz</link>
+      <description>A BCA student from Butwal, Nepal</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://amritbh010.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>About</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/about/my-self/</link>
+          <guid>https://amritbh010.xyz/about/my-self/</guid>
+          <description xml:base="https://amritbh010.xyz/about/my-self/"></description>
+      </item>
+      <item>
+          <title>Gmail</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/contact/gmail/</link>
+          <guid>https://amritbh010.xyz/contact/gmail/</guid>
+          <description xml:base="https://amritbh010.xyz/contact/gmail/"></description>
+      </item>
+      <item>
+          <title>Proton-mail</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/contact/proton-mail/</link>
+          <guid>https://amritbh010.xyz/contact/proton-mail/</guid>
+          <description xml:base="https://amritbh010.xyz/contact/proton-mail/"></description>
+      </item>
+      <item>
+          <title>Embracing the Linux Lifestyle</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/post/first-post/</link>
+          <guid>https://amritbh010.xyz/post/first-post/</guid>
+          <description xml:base="https://amritbh010.xyz/post/first-post/">&lt;p&gt;Are you tired of bloated operating systems slowing you down? Say hello to efficiency and customization with Linux! As an avid Arch Linux user, I&#x27;ve found the perfect balance of performance and flexibility. From tweaking system configurations to exploring the depths of the command line, every day is a new adventure. Join me on the journey to open-source greatness! #ArchLinux #OpenSource #Efficiency&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>A Student&#x27;s Tale: Navigating College and Code</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/post/second-post/</link>
+          <guid>https://amritbh010.xyz/post/second-post/</guid>
+          <description xml:base="https://amritbh010.xyz/post/second-post/">&lt;p&gt;and the occasional crush. As a BCA student at Butwal Kalika Campus, I&#x27;m diving headfirst into the world of computer science. C++ is my weapon of choice, and I&#x27;m constantly sharpening my skills to tackle the challenges ahead. Follow along as I juggle assignments, projects, and maybe even a little romance. #BCAStudent #Cplusplus #CollegeLife&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>The Heart&#x27;s Melody: Musings on Crushes</title>
+          <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://amritbh010.xyz/post/third-post/</link>
+          <guid>https://amritbh010.xyz/post/third-post/</guid>
+          <description xml:base="https://amritbh010.xyz/post/third-post/">&lt;p&gt;The journey of a crush is a captivating one. It&#x27;s a journey filled with wonder and uncertainty, where every interaction becomes a treasure to cherish.
+So next time you find yourself lost in a sea of crimson, embrace the moment with a wink and a smile. After all, blushing is simply your heart&#x27;s way of saying,  &lt;br&gt;Keep blushing, keep smiling, and remember, there&#x27;s no shame in being tickled pink! 🌹😊&lt;br&gt;I&#x27;m here, I&#x27;m adorable, and I come in shades of pink!&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
